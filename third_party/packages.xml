@@ -171,9 +171,9 @@
   </package>
   <package>
     <name>Pythonic manipulation of IPv4, IPv6, CIDR, EUI and MAC network addresses</name>
-    <url>http://pkgs.fedoraproject.org/repo/pkgs/python-netaddr/netaddr-0.7.5.tar.gz/d41d8cd98f00b204e9800998ecf8427e/netaddr-0.7.5.tar.gz</url>
+    <url>http://pkgs.fedoraproject.org/repo/pkgs/python-netaddr/netaddr-0.7.5.tar.gz/06168e1efb753d4d3e48778a5373e192/netaddr-0.7.5.tar.gz</url>
     <format>tgz</format>
-    <md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+    <md5>06168e1efb753d4d3e48778a5373e192</md5>
      <no_unpack>True</no_unpack>
   </package>
   <package>
