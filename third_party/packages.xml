@@ -7,7 +7,7 @@
   </package>
   <package>
     <name>ElementTree - a light-weight XML object model for Python</name>
-    <url>http://effbot.org/media/downloads/elementtree-1.2.6-20050316.tar.gz</url>
+    <url>https://src.fedoraproject.org/repo/pkgs/python-elementtree/elementtree-1.2.6-20050316.tar.gz/e1b21716be8bfff8bf192fc3880ad008/elementtree-1.2.6-20050316.tar.gz</url>
     <format>tgz</format>
     <md5>e1b21716be8bfff8bf192fc3880ad008</md5>
   </package>
@@ -43,7 +43,7 @@
     <name>Python library for NETCONF clients</name>
     <url>https://github.com/leopoul/ncclient/tarball/v0.3.2</url>
     <format>tgz</format>
-    <md5>2534a8ee8d0280958d5b27c784ef7647</md5>
+    <md5>530fe50cb4e51879af41ec5cdb53f71f</md5>
     <local-filename>ncclient-0.3.2.tar.gz</local-filename>
     <rename>ncclient</rename>
   </package>
